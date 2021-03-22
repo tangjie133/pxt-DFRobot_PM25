@@ -1,5 +1,5 @@
 {
-    "name": "pxt-DFRobot_PM25",
+    "name": "DFRobot_PM25",
     "version": "0.0.2",
     "description": "",
     "dependencies": {
@@ -11,7 +11,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "custom.ts"
+        "custom.ts",
+        "_locales/zh-cn/DFRobot_PM25-strings.json"
     ],
     "testFiles": [
         "test.ts"
